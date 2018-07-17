@@ -6,6 +6,8 @@ As regras do torneio são descritas no documento [rules](https://github.com/paaa
 
 A estrutura do robô foi desenvolvida utilizando um software de modelagem 3D chamado [openScad](http://www.openscad.org/). Em seguida, essa estrutura foi impressa e utilizada no robô.
 
+![Estrutra](https://github.com/paaatcha/TUR/blob/master/img/modelo-real.png?raw=true)
+
 O robô possui 10 sensores de luz para identificação do percurso. Para alocar esses sensores foi desenvolvida uma simples PCB que você encontra o modelo [aqui](http://github.com/paaatcha/TUR/eletronica). 
 
 
