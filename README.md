@@ -10,8 +10,19 @@ A estrutura do robô foi desenvolvida utilizando um software de modelagem 3D cha
 
 O robô possui 10 sensores de luz para identificação do percurso. Para alocar esses sensores foi desenvolvida uma simples PCB que você encontra o modelo [aqui](http://github.com/paaatcha/TUR/eletronica). 
 
+![Sensores](https://github.com/paaatcha/TUR/blob/master/img/placa.jpg?raw=true)
+
 
 Para controlar o robô foi utilizado um Arduino MEGA, na qual foi implementado um controlador PID no mesmo. Toda essa implementação se encontra na pasta [programação](https://github.com/paaatcha/TUR/tree/master/programacao).
+
+Versão 1 do robô (observer que a placa de sensores e o controlador eram diferentes):
+![Versao 1](https://github.com/paaatcha/TUR/blob/master/img/1versao.jpg?raw=true)
+
+Versão final (já com arduino mega e os 10 sensores):
+![Versao final](https://github.com/paaatcha/TUR/blob/master/img/versao-final.jpg?raw=true)
+
+
+
 
 Você pode ver o desempenho do robô na pista oficial no vídeo abaixo:
 
