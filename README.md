@@ -19,7 +19,7 @@ Versão 1 do robô (observer que a placa de sensores e o controlador eram difere
 ![Versao 1](https://github.com/paaatcha/TUR/blob/master/img/1versao.jpg?raw=true)
 
 Versão final (já com arduino mega e os 10 sensores):
-![Versao final](https://github.com/paaatcha/TUR/blob/master/img/versao-final.jpg?raw=true)
+![Versao final](https://github.com/paaatcha/TUR/blob/master/img/versao-final.jpg?raw=true=480x360)
 
 
 
