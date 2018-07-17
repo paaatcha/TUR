@@ -1,4 +1,4 @@
-# TORNEIO UNIVERSITÁRIO DE ROBÓTICA 
+# University Robotic Tournament
 
 In this repository, you can find the codes and files of the [UFES robotic team](http://www.erus.ufes.br/) developed to the III University Robotic Tournament (TUR, in Portuguese), at Federal University of Uberlândia, Brazil. This project was developed by a team composed by me, Guilherme Artém and Vanderlei Vieira.
 
@@ -26,7 +26,7 @@ Robot final version: (now it has the Arduino Mega and the developed PCB)
 
 
 
-Take look at the robot's performance on the official race track:
+Take look at the robot's performance on the official race track. It's very cool to see the PID working for the 90º turn.
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/wrlccVcyYqc/0.jpg)](https://www.youtube.com/watch?v=wrlccVcyYqc)
 
